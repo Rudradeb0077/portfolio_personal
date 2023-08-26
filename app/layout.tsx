@@ -49,14 +49,14 @@ export const metadata: Metadata = {
         title: "Rudradeb Sinha Roy - Designer and Developer",
         description:
       "Hobby Designer and Software Engineer, currently at Neumann Kaffee Gruppe. Focused on immersive experiences, studying in Hamburg, Germany.",
-        url: "https://www.seekvisualartist.com/",
-        siteName: "www.seekvisualartist.com",
+        url: "https://rudradeb.vercel.app",
+        siteName: "www.rudradeb.vercel.app",
         images: [
             {
                 url: "./public/metadata.jpg",
                 width: 1200,
                 height: 630,
-                alt: "Seek Visual Artist - Designer and Developer",
+                alt: "Rudradeb Sinha Roy - Designer and Developer",
             },
         ],
         locale: "en-US",
@@ -64,7 +64,7 @@ export const metadata: Metadata = {
     },
     twitter: {
         card: "summary_large_image",
-        title: "Seek Visual Artist - Designer and Developer",
+        title: "Rudradeb Sinha Roy - Designer and Developer",
         description:
       "Hobby Designer and Software Engineer, currently at Neumann Kaffee Gruppe. Focused on immersive experiences, studying in Hamburg, Germany.",
         creator: "SeekVFX",
