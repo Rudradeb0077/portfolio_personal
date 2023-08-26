@@ -10,8 +10,8 @@ const syne = Syne({
 });
 
 export const metadata: Metadata = {
-    metadataBase: new URL("https://www.seekvisualartist.com/"),
-    title: "Seek Visual Artist",
+    metadataBase: new URL("https://rudradeb.vercel.app"),
+    title: "Rudradeb Sinha Roy",
     description:
     "Hobby Designer and Software Engineer, currently at Neumann Kaffee Gruppe. Focused on immersive experiences, studying in Hamburg, Germany.",
     generator: "Next.js",
