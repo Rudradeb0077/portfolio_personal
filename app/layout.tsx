@@ -46,7 +46,7 @@ export const metadata: Metadata = {
     ],
     colorScheme: "dark",
     openGraph: {
-        title: "Seek Visual Artist - Designer and Developer",
+        title: "Rudradeb Sinha Roy - Designer and Developer",
         description:
       "Hobby Designer and Software Engineer, currently at Neumann Kaffee Gruppe. Focused on immersive experiences, studying in Hamburg, Germany.",
         url: "https://www.seekvisualartist.com/",
